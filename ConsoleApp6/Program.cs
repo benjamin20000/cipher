@@ -1,2 +1,7 @@
 ﻿
-static List<string> getstatic List<string> getstatic List<string> getstatic List<string> getstatic List<string> getstatic List<string> getstatic List<string> getstatic List<string> getstatic List<string> getstatic List<string> getstatic List<string> getstatic List<string> getstatic List<string> getstatic List<string> getstatic List<string> getstatic List<string> getstatic List<string> getstatic List<string> getstatic List<string> getstatic List<string> getstatic List<string> getstatic List<string> getstatic List<string> getstatic List<string> getstatic List<string> getstatic List<string> getstatic List<string> get
+global::System.Console.WriteLine();global::System.Console.WriteLine();global::System.Console.WriteLine();global::System.Console.WriteLine();global::System.Console.WriteLine();global::System.Console.WriteLine(
+    
+    
+    
+global::System.Console.WriteLine();
+global::System.Console.WriteLine(););
